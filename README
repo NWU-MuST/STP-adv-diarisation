@@ -1,0 +1,2 @@
+Example usage:
+time bash diarize.sh ../work/5_november_2009/5_november_2009.wav 0 4 /tmp/out.seg /home/cvheerden/local/src/audioseg-1.2.2/nwu/tmp_work
